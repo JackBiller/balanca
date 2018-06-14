@@ -6,7 +6,7 @@ var codigoBalanca_Global = 1;
 var balancas_Global = "";
 
 
-var urlWebService = "http://localhost:8088/Teste/Mini%20Project/teste%20balancaUNO/controller/";
+var urlWebService = "http://192.168.1.102/balanca/controller/";
 
 var vendedor = 0;
 var filialGearl = 0;
